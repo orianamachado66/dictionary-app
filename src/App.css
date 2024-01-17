@@ -1,3 +1,16 @@
+.App {
+  background-color: #e6ecf3;
+  border-radius: 20px;
+  padding: 25px;
+}
+
+.App h1 {
+  text-align: center;
+  color: #153447;
+}
+
 .App footer {
   font-size: 13px;
+  text-align: center;
+  color: #153447;
 }
